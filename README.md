@@ -98,7 +98,7 @@ Frontend:
 
 Backend:
 - Python (`if-else`, `functions`, `loops`, etc).
-- Data Handling & Preprocessing (`ImageDataGenerator`, `pandas`, `numpy`, `sklearn.preprocessing`, `sklearn.model_selection`, etc).
+- Data Handling & Preprocessing (`ImageDataGenerator`, `pandas`, `numpy`, `sklearn.preprocessing`, etc).
 
 - `TensorFlow`/`Keras` (Classifying images as "Malignant" or "Benign"):
   - `TensorFlow`: Open source library developed by Google. Used for build, train, and deploy Neural Network (CNNs).
