@@ -36,16 +36,16 @@ This notebook explores:
 | **Actual Malignant** | 230 (False Negative)  | 3046 (True Positive) |
 
 1. True Positives (3046):
-Correctly predicted depressed cases.
+Correctly predicted **Depressed** Cases.
 
 2. True Negatives (7016):
-Correctly predicted normal cases.
+Correctly predicted **Normal** Cases.
 
 3. False Positives (318):
-Depressed cases wrongly classified as normal.
+**Depressed** Cases wrongly classified as **Normal**.
 
 4. False Negatives (230):
-Normal cases wrongly classified as depressed.
+**Normal** Cases wrongly classified as **Depressed**.
 
 - So, based from this analysis, I choose **Neural Network** for the **Confusion Matrix**. The model shows strong performance in detecting **Normal** or **Depressed** compared to **Decision Tree**.
 
@@ -73,7 +73,7 @@ Normal cases wrongly classified as depressed.
 <strong><em>Figure 5: Confusion Matrix (Neural Network) Results</em></strong>
 </p>
 
-- Why we use **Neural Network** for the **Confusion Matrix**?
+- Why we use **Neural Network** for the Confusion Matrix?
 1. **Neural Network** correctly classifies more.
     - `Higher True Positive (TP) 3046 > 2806` & `True Negative (TN) 7016 > 6841`.
     - `Lower False Positive (FP) 318 < 493` & `False Negative (FN) 230 < 470`.
@@ -100,7 +100,7 @@ Backend:
 - Python (`if-else`, `functions`, `loops`, etc).
 - Data Handling & Preprocessing (`ImageDataGenerator`, `pandas`, `numpy`, `sklearn.preprocessing`, etc).
 
-- `TensorFlow`/`Keras` (Classifying images as "Malignant" or "Benign"):
+- `TensorFlow`/`Keras`:
   - `TensorFlow`: Open source library developed by Google. Used for build, train, and deploy Neural Network (CNNs).
   - `Keras`: Open-source library that provides Python interface for Neural Network.
 
