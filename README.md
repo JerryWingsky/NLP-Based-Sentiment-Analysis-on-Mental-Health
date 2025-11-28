@@ -1,6 +1,7 @@
 # NLP-Based Sentiment Analysis on Mental Health (DAML) ❤️‍🩹
 
 📄 Licensed under CC BY-NC 4.0 — For educational & non-commercial use only.
+
 🔗 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Overview ✨
