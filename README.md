@@ -104,4 +104,4 @@ Back-End:
 
 ## Big thanks to my teammates: 🙌
 1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky))
-2. Hu Jiawei ((https://github.com/HuJiawei-David))
+2. Hu Jiawei (https://github.com/HuJiawei-David)
