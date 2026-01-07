@@ -103,6 +103,6 @@ Back-End:
 
 - Google Colab: Free Online Platform to Write & Run Code.
 
-## Big thanks to my teammates: 🙌
+## Big Thanks to my Teammates: 🙌
 1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky))
 2. Hu Jiawei ([Hu Jiawei](https://github.com/HuJiawei-David))
