@@ -6,7 +6,7 @@
 
 ## Overview ✨
 
-A group project for **Data Analytics**, **Sentiment Analysis**, and combined with **Natural Language Processing**, focusing on applying **ML** & **AI** to solve a **Data Problem** of your choice. It classifies **Mental Health Statements** as either **Normal** or **Depressed**. It explores **Practical Solutions** to **Real-World Challenges** in:
+A **Group Project** for **Data Analytics**, **Sentiment Analysis**, and combined with **Natural Language Processing**, focusing on applying **ML** & **AI** to solve a **Data Problem** of your choice. It classifies **Mental Health Statements** as either **Normal** or **Depressed**. It explores **Practical Solutions** to **Real-World Challenges** in:
 - **Text Classification**.
 - **Applies Decision Tree & Neural Network Models**.
 - **Performs Data Cleaning & Transformation**.
